@@ -9,20 +9,20 @@ This repository contains various chapters that cover fundamental and advanced Ja
 
 ## 📚 Table of Contents
 
-1. [Chapter 1: Variables](#chapter-1-variables)
-2. [Chapter 2: Expressions & Conditional Statements](#chapter-2-expressions--conditional-statements)
-3. [Chapter 3: Loops & Functions](#chapter-3-loops--functions)
-4. [Chapter 4: Strings](#chapter-4-strings)
-5. [Chapter 5: Arrays](#chapter-5-arrays)
-6. [Chapter 6: JavaScript in the Browser](#chapter-6-javascript-in-the-browser)
-7. [Chapter 7: DOM Manipulation](#chapter-7-dom-manipulation)
-8. [Chapter 8: Events & Other DOM Properties](#chapter-8-events--other-dom-properties)
-9. [Chapter 9: Callbacks, Promises, and Async/Await](#chapter-9-callbacks-promises-and-asyncawait)
-10. [Chapter 10: Network Requests and Storing Data](#chapter-10-network-requests-and-storing-data)
-11. [Chapter 11: Object-Oriented Programming](#chapter-11-object-oriented-programming)
-12. [Chapter 12: Advanced JavaScript](#chapter-12-advanced-javascript)
+1. [Chapter 1: Variables](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%201)
+2. [Chapter 2: Expressions & Conditional Statements](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%202)
+3. [Chapter 3: Loops & Functions](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%203)
+4. [Chapter 4: Strings](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%204)
+5. [Chapter 5: Arrays](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%205)
+6. [Chapter 6: JavaScript in the Browser](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%206)
+7. [Chapter 7: DOM Manipulation](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%207)
+8. [Chapter 8: Events & Other DOM Properties](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%208)
+9. [Chapter 9: Callbacks, Promises, and Async/Await](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%209)
+10. [Chapter 10: Network Requests and Storing Data](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%2010)
+11. [Chapter 11: Object-Oriented Programming](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%2011)
+12. [Chapter 12: Advanced JavaScript](https://github.com/Vanshika200003/javascript/tree/main/Chapter%20-%2012)
 
-13. ## 🚀 Getting Started
+## 🚀 Getting Started
 
 To get started with this repository:
 
